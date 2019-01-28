@@ -1,0 +1,6 @@
+framework module Pods_BindiTests {
+  umbrella header "Pods-BindiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
